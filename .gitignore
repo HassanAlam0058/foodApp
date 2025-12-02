@@ -1,4 +1,2 @@
-git rm --cached .env
-git rm -r --cached node_modules
-git commit -m "Remove node_modules"
-git push
+node_modules/
+.env
